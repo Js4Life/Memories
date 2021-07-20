@@ -1,1 +1,3 @@
-npm install @testing-library/react react-test-renderer jest-dom --save-dev
+Live Site : - https://creatingmemories.netlify.app/
+
+Backend Deployed on Heroku : https://memories-boy.herokuapp.com/
